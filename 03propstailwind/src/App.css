@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+.card {
+  padding: 2em;
+  background: linear-gradient(135deg,#00feba,#5b548a);
+  border-radius: 50px;
+  color: white;
+  margin-bottom: 50px;
+}
+
