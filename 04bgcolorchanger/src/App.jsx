@@ -50,39 +50,6 @@ function App() {
             </div>
           </div>
       </div>
-      {/* <div className="container" style={{ backgroundColor: color }}>
-      <div className="button-container">
-        <div className="button-group">
-          <button onClick={() => setColor("red")} style={{ backgroundColor: "Red", color:"white", borderRadius: "20px"}} className="color-button red">
-            Red
-          </button>
-          <button onClick={() => setColor("green")} style={{ backgroundColor: "Green", color:"white", borderRadius: "20px"}} className="color-button green">
-            Green
-          </button>
-          <button onClick={() => setColor("blue")} style={{ backgroundColor: "Blue", color:"white", borderRadius: "20px"}} className="color-button blue">
-            Blue
-          </button>
-          <button onClick={() => setColor("black")} style={{ backgroundColor: "black", color:"white", borderRadius: "20px"}}>
-            Black
-          </button>
-          <button onClick={() => setColor("orange")} style={{ backgroundColor: "orange", color:"white", borderRadius: "20px"}} className="color-button blue">
-            Orange
-          </button>
-          <button onClick={() => setColor("maroon")} style={{ backgroundColor: "Maroon", color:"white", borderRadius: "20px"}} className="color-button blue">
-            Maroon
-          </button>
-          <button onClick={() => setColor("Pink")} style={{ backgroundColor: "Pink", color:"white", borderRadius: "20px"}} className="color-button blue">
-            Pink
-          </button>
-          <button onClick={() => setColor("Grey")} style={{ backgroundColor: "Grey", color:"white", borderRadius: "20px"}} className="color-button blue">
-            Grey
-          </button>
-          <button onClick={() => setColor("Gold")} style={{ backgroundColor: "Gold", color:"white", borderRadius: "20px"}} className="color-button blue">
-            Golden
-          </button>
-        </div>
-      </div>
-    </div> */}
     </>
   )
 }
